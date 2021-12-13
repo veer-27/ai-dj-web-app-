@@ -1,0 +1,53 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size:25px;
+    width:100%;
+    margin:0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.note
+{
+    font-size:15px;
+    color:black;
+}
+
+.div_speed 
+{
+    float: left;
+}
+
+.speed_img , .volume_img
+{
+    width:200px;
+    border-radius:100px;
+}
+
+#speed_text , #volume_text
+{
+    font-size:25px;
+    margin:15px;
+}
+
+.div_volume
+{
+    float: right;
+}
+
+.play_button
+{
+  font-size:20px;
+  width:130px;
+}
+
+canvas
+{
+    border: 5px solid whitesmoke;
+    border-radius:20px;
+}
+
